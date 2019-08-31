@@ -2,3 +2,4 @@ Flask
 Flask_cors
 gunicorn==19.9.0
 pycrypto
+requests
